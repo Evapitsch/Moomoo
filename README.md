@@ -1,4 +1,4 @@
-# Moomoo-
+# Moomoo
 README.md template
 # Start here
 This is the second brain of Eva Pitsch.
